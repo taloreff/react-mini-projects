@@ -1,4 +1,5 @@
 **React Basics Project**
+
 This repository contains a collection of basic React components showcasing various functionalities. 
 
 The Watcher App component is designed to manage a list of watchers who have favorite movies. It allows users to add new watchers, remove existing ones, and view the favorite movies of each watcher.
